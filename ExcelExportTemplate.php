@@ -1,4 +1,17 @@
 <?php 
+/** 
+* ExcelExportTemplate
+* 
+* Made by phatnt93
+* 12/05/2021
+* 
+* @license MIT License
+* @author phatnt <thanhphat.uit@gmail.com>
+* @github https://github.com/phatnt93/excel-export-template
+* @version 1.0.0
+* 
+*/
+
 namespace ExcelExportTemplate;
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
