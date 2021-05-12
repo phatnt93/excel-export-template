@@ -1,6 +1,9 @@
 # Excel Export Template
 Simple class help export data with exist template.
 
+## Requirement
+- PHPSpreadsheet library
+
 ## Options
 Symbols
 ```
